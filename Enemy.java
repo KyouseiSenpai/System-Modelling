@@ -10,4 +10,10 @@ public class Enemy {
         this.strength = strength;
         this.stamina = stamina;
     }
+      void attack() {
+    }
+
+    void defend() {
+    }
+
 
