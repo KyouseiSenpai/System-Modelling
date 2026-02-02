@@ -15,5 +15,8 @@ Weapon(String weaponName, int damage, int durability, String rarity) {
     }
 
     String identity() {
-        return
+        return "I am the Weapon class. I define what the player uses to fight.";
+    }
+}
+
 
