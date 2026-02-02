@@ -11,4 +11,9 @@ Weapon(String weaponName, int damage, int durability, String rarity) {
         this.durability = durability;
         this.rarity = rarity;
     }
+        void useWeapon() {
+    }
+
+    String identity() {
+        return
 
