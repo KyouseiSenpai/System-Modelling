@@ -9,3 +9,9 @@ public class Level {
         this.enemy = enemy;
     }
 
+    void startLevel() {
+    }
+
+    void endLevel() {
+    }
+
