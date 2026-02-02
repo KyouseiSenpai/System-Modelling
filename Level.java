@@ -7,3 +7,5 @@ public class Level {
         this.levelName = levelName;
         this.difficulty = difficulty;
         this.enemy = enemy;
+    }
+
