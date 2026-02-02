@@ -15,5 +15,12 @@ public class Enemy {
 
     void defend() {
     }
+    
+     String identity() {
+        return "I am an Enemy class. I represent opponents in the game.";
+    }
+}
+
+
 
 
