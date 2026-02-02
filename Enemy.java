@@ -10,6 +10,7 @@ public class Enemy {
         this.strength = strength;
         this.stamina = stamina;
     }
+    
       void attack() {
     }
 
@@ -20,6 +21,7 @@ public class Enemy {
         return "I am an Enemy class. I represent opponents in the game.";
     }
 }
+
 
 
 
