@@ -15,3 +15,9 @@ public class Level {
     void endLevel() {
     }
 
+    String identity() {
+        return "I am the Level class. I manage game stages and enemies.";
+    }
+}
+
+
