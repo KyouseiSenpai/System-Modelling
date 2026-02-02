@@ -12,3 +12,16 @@ public class Player {
         this.skill = skill;
         this.weapon = weapon;
     }
+ void attack() {
+    }
+
+    void sprint() {
+    }
+
+    void useSkill() {
+    }
+
+    String identity() {
+        return "I am the Player class. I represent the main character.";
+    }
+}
